@@ -2,6 +2,8 @@
 
 [![.NET](https://github.com/gordon-hung/GHLearning-EasyAppMetric/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gordon-hung/GHLearning-EasyAppMetric/actions/workflows/dotnet.yml)
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gordon-hung/GHLearning-EasyAppMetric)
+
 An [OpenTelemetry Prometheus exporter](https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/metrics/sdk_exporters/prometheus.md) for configuring an ASP.NET Core application with an endpoint for Prometheus to scrape.Gordon Hung Learning Easy App Metric
 
 ### Steps to enable OpenTelemetry.Exporter.Prometheus.AspNetCore
